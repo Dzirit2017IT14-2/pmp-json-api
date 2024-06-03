@@ -1,12 +1,6 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "Games": [
-    {
       "Id": 1,
       "TitleUA": "Цитаделі Делюкс",
       "Alias": "сitadels-deluxe",
